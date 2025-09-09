@@ -9,7 +9,7 @@
   <a href=""> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
 </div></center>
   <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnR3eHNtMTB4Zzdxd3VwNXFsb3RycHE2ejB0NTZ1ZDhheGMwcDF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xVRRDVP6lqtNQJrzN7/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnR3eHNtMTB4Zzdxd3VwNXFsb3RycHE2ejB0NTZ1ZDhheGMwcDF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xVRRDVP6lqtNQJrzN7/giphy.gif" width="800" height="500"/>
 </div>
 ## Hi there 👋##
 
