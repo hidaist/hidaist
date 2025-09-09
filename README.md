@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
   <a href=""> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
 </div></center>
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnR3eHNtMTB4Zzdxd3VwNXFsb3RycHE2ejB0NTZ1ZDhheGMwcDF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xVRRDVP6lqtNQJrzN7/giphy.gif" width="600" height="300"/>
+</div>
 ## Hi there 👋##
 
 <!--
