@@ -3,7 +3,7 @@
 <!--
 **hidaist/hidaist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmR0ajdxenc5YWIwYm5qOTVscDZic3B0MW13eHprajIyNTFnb25qbiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/raGZ0thWzeQKzZ8WDA/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 Here are some ideas to get you started:
 
