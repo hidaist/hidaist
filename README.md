@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="150"/>
+  <img src="" width="150"/>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTdtYjk5eDgyZjRwMHB1cTY0bDFld3RsNDQ4NnRqdm12ZmNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/raGZ0thWzeQKzZ8WDA/giphy.gif" width="150"/>
 </div>
