@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTdtYjk5eDgyZjRwMHB1cTY0bDFld3RsNDQ4NnRqdm12ZmNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/raGZ0thWzeQKzZ8WDA/giphy.gif" width="150"/>
 </div>
 <center>
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
   <a href=""> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
 </div></center>
