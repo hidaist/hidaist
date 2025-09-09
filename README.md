@@ -33,8 +33,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist&layout=compact&theme=vision-friendly-dark)
+[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist)
+[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist&layout=compact&theme=vision-friendly-dark)
 
 ![Snake animation](https://github.com/hidaist/hidaist/blob/main/output/github-contribution-grid-snake-dark.svg)
 <!--
