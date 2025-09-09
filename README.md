@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
