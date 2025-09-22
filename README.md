@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnR3eHNtMTB4Zzdxd3VwNXFsb3RycHE2ejB0NTZ1ZDhheGMwcDF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xVRRDVP6lqtNQJrzN7/giphy.gif" width="600" height="300"/>
 </div>
 ## Hi there 👋##
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indoneia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
