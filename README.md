@@ -35,7 +35,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## ⚡️ Statistik
 
  <br> 
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hidaist)](https://git.io/streak-stats)
+
 <div align=center> 
   
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hidaist&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Statistik GitHub ChijiokeOkorji" /> 
