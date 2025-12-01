@@ -32,6 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" alt="Material UI" width="40" height="40"/>
 </div>
 
+## 🛠 Skills  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,flutter,php,java,nodejs,express,mysql,firebase,figma,git,github,threejs)]()
+
+---
 ## ⚡️ Statistik
 
  <br> 
