@@ -35,9 +35,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## ⚡️ Statistik
 
  <br> 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hidaist)](https://git.io/streak-stats)
 <div align=center> 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hidaist&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Statistik GitHub ChijiokeOkorji" /> 
+  
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hidaist&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Statistik GitHub ChijiokeOkorji" /> 
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=hidaist&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Bahasa yang Paling Banyak Digunakan ChijiokeOkorji" /> 
 </div> 
