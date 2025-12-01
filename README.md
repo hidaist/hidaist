@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Dhais+Ishida!;A+12+y%2Fo+Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
+</h1>
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTdtYjk5eDgyZjRwMHB1cTY0bDFld3RsNDQ4NnRqdm12ZmNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/raGZ0thWzeQKzZ8WDA/giphy.gif" width="150"/>
 </div>
@@ -24,10 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ## 📊 GitHub Activity  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMS-ranil&show_icons=true&theme=tokyonight" height="160em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-ranil&layout=compact&theme=tokyonight" height="160em">
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hidaist&theme=tokyonight" height="160em">
