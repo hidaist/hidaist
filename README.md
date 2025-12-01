@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ###  💭 My Weekly Update
 
 > [!TIP]
-> My Linkedin Profile [Click Here][![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/).
+> My Linkedin Profile [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/).
 
 ---
 ## 🛠 Skills  
