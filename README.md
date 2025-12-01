@@ -1,7 +1,11 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Dhais+Ishida!;A+12+y%2Fo+Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Dhais+Ishida!;Tech+Enthusiast!;Web+%26+App+Developer!;Loves+Coding+%26+Robotics!" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTdtYjk5eDgyZjRwMHB1cTY0bDFld3RsNDQ4NnRqdm12ZmNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/raGZ0thWzeQKzZ8WDA/giphy.gif" width="150"/>
@@ -20,7 +24,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/)
+###  💭 My Weekly Update
 
+> [!TIP]
+> I've Got 1000 Followers On My Linkedin Profile [Click Here](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/).
+
+---
 ## 🛠 Skills  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,flutter,php,java,nodejs,mysql,git,github)]()
