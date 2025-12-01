@@ -17,24 +17,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oned-imam-sutrisno-8349a1325/)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" alt="Material UI" width="40" height="40"/>
-</div>
-
 ## 🛠 Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,flutter,php,java,nodejs,express,mysql,firebase,figma,git,github,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,flutter,php,java,nodejs,mysql,git,github)]()
+
+---
+## 📊 GitHub Activity  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hidaist&show_icons=true&theme=tokyonight" height="160em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist&layout=compact&theme=tokyonight" height="160em">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hidaist&theme=tokyonight" height="160em">
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidaist&theme=tokyo-night)
 
 ---
 ## ⚡️ Statistik
