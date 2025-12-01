@@ -25,8 +25,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 📊 GitHub Activity  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hidaist&show_icons=true&theme=tokyonight" height="160em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidaist&layout=compact&theme=tokyonight" height="160em">
+  <img src="https://github-readme-stats.vercel.app/api?username=DMS-ranil&show_icons=true&theme=tokyonight" height="160em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-ranil&layout=compact&theme=tokyonight" height="160em">
 </div>
 
 <div align="center">
